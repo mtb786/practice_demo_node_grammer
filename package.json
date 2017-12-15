@@ -1,0 +1,19 @@
+{
+  "name": "grammer_tool",
+  "version": "1.0.0",
+  "description": "grammer analytical tool",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manish bhavnani",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.18.2",
+    "mongoose": "^4.13.5",
+    "multer": "^1.3.0",
+    "node-tesseract": "^0.2.7",
+    "nodemailer": "^4.4.0"
+  }
+}
